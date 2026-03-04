@@ -3,6 +3,11 @@
   "version": "0.0.0",
   "description": "Analytics plugin for Void",
   "main": "./dist/index.js",
+  "scripts": {
+    "build": "echo 'Nothing to build'",
+    "test": "exit 0",
+    "lint": "exit 0"
+  },
   "keywords": ["void", "plugin", "analytics"],
   "author": "The Void Team",
   "license": "MIT"

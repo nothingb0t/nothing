@@ -5,6 +5,11 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "echo 'Nothing to build'",
+    "test": "exit 0",
+    "lint": "exit 0"
+  },
   "keywords": ["void", "sdk"],
   "author": "The Void Team",
   "license": "MIT",
