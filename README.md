@@ -116,7 +116,7 @@ n0thing deploy
 
 ## 📖 Documentation
 
-Comprehensive documentation is available at [ownnothing.fun](https://ownnothing.fun)
+Comprehensive documentation is available at [w0rthless.fun](https://w0rthless.fun)
 
 - [Introduction](docs/introduction.md) - What is worthless bot?
 - [Agent Architecture](docs/core-concepts.md) - Understanding autonomous n0thing

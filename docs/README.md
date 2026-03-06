@@ -1,6 +1,6 @@
 # worthless bot Website
 
-Satirical landing page and documentation for **ownnothing.fun**
+Satirical landing page and documentation for **w0rthless.fun**
 
 ## Files
 
@@ -34,7 +34,7 @@ It's a commentary on GitHub repos with 10k+ stars, elaborate documentation, prof
 ### Customize
 
 Update these references throughout:
-- Domain: `ownnothing.fun`
+- Domain: `w0rthless.fun`
 - GitHub: `https://github.com/theworthlessbot/worthless-bot.git`
 - Project name: "worthless bot"
 
